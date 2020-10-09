@@ -19,6 +19,7 @@
 ### Database
 
   * [mysql](https://github.com/manyuanrong/deno_mysql) – MySQL driver for Deno.
+  * [postgres](https://github.com/deno-postgres/deno-postgres) – PostgreSQL driver for Deno
 
 ### Testing
 
