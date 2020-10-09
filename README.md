@@ -1,4 +1,4 @@
-# awesome deno
+# Awesome Deno
 
 [Deno](https://github.com/denoland) is an open-source, cross-platform, secure JavaScript and TypeScript runtime for writing servers.
 
@@ -17,6 +17,8 @@
   * [math](https://github.com/axetroy/deno_math) – The math module is used to provide a helper for high-precision calculations and scientific computing.
 
 ### Database
+
+  * [mysql](https://github.com/manyuanrong/deno_mysql) – MySQL driver for Deno.
 
 ### Testing
 
