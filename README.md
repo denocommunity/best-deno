@@ -1,1 +1,1 @@
-# awesome-deno
+# awesome deno
