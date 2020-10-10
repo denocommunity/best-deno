@@ -2,6 +2,8 @@
 
 [Deno](https://github.com/denoland) is an open-source, cross-platform, secure JavaScript and TypeScript runtime for writing servers.
 
+> Curating the best Deno modules and resources.
+
 ## Modules
 
 ### Functional programming
