@@ -25,9 +25,11 @@
 
   * [test](https://github.com/denoland/deno/tree/v1.4.5/std/testing) – The test module is used to provides a few basic utilities to make testing easier and consistent in Deno.
 
-<!--
-
 ### HTTP
+
+  * [cache](https://github.com/denosaurs/cache) – Deno cache library.
+
+<!--
 
 ### Debugging / Profiling
 
