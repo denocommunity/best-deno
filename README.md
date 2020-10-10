@@ -29,6 +29,10 @@
 
   * [cache](https://github.com/denosaurs/cache) – Deno cache library.
 
+### Date
+
+  * [date_fn](https://github.com/date-fns/date-fns) – Modern JavaScript date utility library.
+
 <!--
 
 ### Debugging / Profiling
