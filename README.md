@@ -33,6 +33,10 @@
 
   * [date_fn](https://github.com/date-fns/date-fns) – Modern JavaScript date utility library.
 
+### Miscellaneous
+
+  * [dotenv](https://github.com/pietvanzoen/deno-dotenv) – Dotenv file handling in Deno.
+
 <!--
 
 ### Debugging / Profiling
@@ -62,8 +66,6 @@
 ### Network
 
 ### Security
-
-### Miscellaneous
 
 -->
 
