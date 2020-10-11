@@ -6,7 +6,7 @@
 
 ## Modules
 
-Total modules: <strong>1100</string> on Deno.land.
+Total modules: <strong>1100</strong> on Deno.land.
 
 ### Functional programming
 
