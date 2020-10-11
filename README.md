@@ -53,6 +53,7 @@ Total modules: <strong>1100</strong> on Deno.land.
 
   * [status](https://github.com/denosaurs/status) – HTTP status utility in Deno.
   * [webview](https://github.com/webview/webview_deno) – Deno bindings for webview, a tiny library for creating web-based desktop GUIs.
+  * [financial](https://github.com/lmammino/financial) – A Zero-dependency TypeScript/JavaScript financial library (based on numpy-financial) for Node.js, Deno and the browser.
 
 <!--
 
