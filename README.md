@@ -25,8 +25,10 @@ Total modules: <strong>1100</strong> on Deno.land.
 
 ### Database
 
-  * [mysql](https://github.com/manyuanrong/deno_mysql) – MySQL driver for Deno.
-  * [postgres](https://github.com/deno-postgres/deno-postgres) – PostgreSQL driver for Deno
+  * Drivers
+    * [mysql](https://github.com/manyuanrong/deno_mysql) – MySQL driver for Deno.
+    * [postgres](https://github.com/deno-postgres/deno-postgres) – PostgreSQL driver for Deno
+    * [redis](https://github.com/denolib/deno-redis) – Redis client for Deno.
 
 ### Testing
 
