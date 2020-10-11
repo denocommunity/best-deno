@@ -42,6 +42,10 @@ Total modules: <strong>1100</strong> on Deno.land.
 
   * [dotenv](https://github.com/pietvanzoen/deno-dotenv) – Dotenv file handling in Deno.
 
+### Text
+
+  * [i18next](https://github.com/i18next/i18next) –  Internationalization framework.
+
 <!--
 
 ### Debugging / Profiling
@@ -55,8 +59,6 @@ Total modules: <strong>1100</strong> on Deno.land.
 ### Real-time
 
 ### Image
-
-### Text
 
 ### Number
 
