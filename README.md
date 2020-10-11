@@ -18,6 +18,7 @@ Total modules: <strong>1100</strong> on Deno.land.
   * [drash](https://github.com/drashland/deno-drash) – A REST microframework for Deno's HTTP server with zero dependencies.
   * [servest](https://github.com/keroxp/servest) – A progressive http server for Deno.
   * [pagic](https://github.com/xcatliu/pagic) – A static site generator powered by Deno + React.
+  * [opine](https://github.com/asos-craigmorten/opine) – Fast, minimalist web framework for Deno ported from ExpressJS.
 
 ### Math
 
