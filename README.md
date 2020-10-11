@@ -51,6 +51,7 @@ Total modules: <strong>1100</strong> on Deno.land.
 ### Other
 
   * [status](https://github.com/denosaurs/status) – HTTP status utility in Deno.
+  * [webview](https://github.com/webview/webview_deno) – Deno bindings for webview, a tiny library for creating web-based desktop GUIs.
 
 <!--
 
