@@ -33,6 +33,7 @@ Total modules: <strong>1100</strong> on Deno.land.
 ### Testing
 
   * [test](https://github.com/denoland/deno/tree/v1.4.5/std/testing) – The test module is used to provides a few basic utilities to make testing easier and consistent in Deno.
+  * [dvm](https://github.com/justjavac/dvm) – Easy way to manage multiple active deno versions.
 
 ### HTTP
 
