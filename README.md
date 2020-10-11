@@ -16,6 +16,7 @@ Total modules: <strong>1100</strong> on Deno.land.
 
   * [oak](https://github.com/oakserver/oak) – A middleware framework for Deno's net server.
   * [drash](https://github.com/drashland/deno-drash) – A REST microframework for Deno's HTTP server with zero dependencies.
+  * [servest](https://github.com/keroxp/servest) – A progressive http server for Deno.
 
 ### Math
 
