@@ -47,6 +47,10 @@ Total modules: <strong>1100</strong> on Deno.land.
   * [i18next](https://github.com/i18next/i18next) – Internationalization framework.
   * [case](https://github.com/justjavac/deno-change-case) – Convert strings between camelCase, PascalCase, Title Case, snake_case and more in Deno.
 
+### Other
+
+  * [status](https://github.com/denosaurs/status) – HTTP status utility in Deno.
+
 <!--
 
 ### Debugging / Profiling
