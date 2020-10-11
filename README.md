@@ -6,6 +6,8 @@
 
 ## Modules
 
+Total modules: <strong>1100</string> on Deno.land.
+
 ### Functional programming
 
   * [lodash](https://github.com/lodash/lodash) – Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
