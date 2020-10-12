@@ -103,4 +103,4 @@ Total modules: <strong>1101</strong> on Deno.land.
 
 ### Stackoverflow
 
-  * Questions about Deno (https://stackoverflow.com/questions/tagged/deno)
+  * [Questions about Deno](https://stackoverflow.com/questions/tagged/deno)
