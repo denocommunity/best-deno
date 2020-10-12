@@ -6,7 +6,7 @@
 
 ## Modules
 
-Total modules: <strong>1100</strong> on Deno.land.
+Total modules: <strong>1101</strong> on Deno.land.
 
 ### Functional programming
 
@@ -97,5 +97,6 @@ Total modules: <strong>1100</strong> on Deno.land.
 
 ### Official docs
 
+  * [Deno Installation](https://github.com/denoland/deno_install)
   * [Deno API TypeDoc](https://doc.deno.land/builtin/stable)
   * [Deno Manual](https://deno.land/manual)
