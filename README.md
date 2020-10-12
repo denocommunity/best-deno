@@ -98,3 +98,4 @@ Total modules: <strong>1100</strong> on Deno.land.
 ### Official docs
 
   * [Deno API TypeDoc](https://doc.deno.land/builtin/stable)
+  * [Deno Manual](https://deno.land/manual)
