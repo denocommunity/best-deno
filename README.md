@@ -1,12 +1,12 @@
-# Awesome Deno
-
-[Deno](https://github.com/denoland) is an open-source, cross-platform, secure JavaScript and TypeScript runtime for writing servers.
+# DenoHub
 
 > Curating the best Deno modules and resources.
 
+[Deno](https://github.com/denoland) is an open-source, cross-platform, secure JavaScript and TypeScript runtime for writing servers.
+
 ## Modules
 
-Total modules: <strong>1100</strong> on Deno.land.
+Total modules: <strong>1124</strong> on Deno.land.
 
 ### Functional programming
 
