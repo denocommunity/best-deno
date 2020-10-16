@@ -1,4 +1,4 @@
-# DenoHub
+# Best Deno
 
 > Curating the best Deno modules and resources.
 
